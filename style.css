@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(222, 135, 168);
+  color: beige;
+}
+.r1 {
+  margin: 20px 13px;
+  padding: 10px;
+  border-left: 10px solid olive;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: brown;
+  outline-offset: 3px;
+}
